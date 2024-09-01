@@ -1,0 +1,15 @@
+/* Write your code here. */
+.thumbnail-list-img {
+  list-style-type: none;
+  opacity: 0.5;
+  margin-right: 25px;
+}
+
+.thumbnail-list-img-opacity {
+  opacity: 1;
+}
+
+.btn {
+  border: none;
+  cursor: pointer;
+}
